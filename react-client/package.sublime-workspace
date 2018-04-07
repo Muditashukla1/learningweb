@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pics",
+				"pics"
+			],
+			[
+				"Al",
+				"Album"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pro",
+				"profileimage"
+			],
+			[
+				"Album",
+				"Album_ID"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"p",
+				"pic"
+			],
+			[
+				"pr",
+				"profileimage"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"A",
+				"Album"
+			],
+			[
+				"M",
+				"MyAlbum"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"tr",
+				"truncatedText"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"body",
+				"body-parser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/controllers/manage.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/albums/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/pics/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/public/stylesheets/style.css",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/app.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/pics/add.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/layouts/layout.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/routes/pics.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/routes/users.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/albums/add.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/routes/albums.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/users/register.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/models/pic.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/models/album.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/pics/storage.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/public/css/style.css",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/routes/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/pics/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/albums/pic.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/models/user.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/Albums/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/models/picModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/users/login.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/controllers/users.js",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/partials/login.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/error.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/partials/login.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/views/partials/classes.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Photogallery/package.json",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/routes/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/app.js",
+		"/C/Work/Mudita/website/Udemy/Project/photo/app.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/package.json",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/users/register.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/models/user.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/routes/users.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/routes/admin.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/admin/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/index.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/portfolio copy.html",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/layouts/main.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/users/login.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/admin/add.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/lib/db.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/admin/edit.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/app.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/package.json",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/public/js/main.js",
+		"/C/Work/Mudita/website/Udemy/Project/Portfolio/views/details.handlebars",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/routes/users.js",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/users/register.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/controllers/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/views/layout.jade",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/layouts/master.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/routes/posts.js",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/views/register.jade",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/views/addpost.jade",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/models/userModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/users/login.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/app.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/controllers/books.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/edit.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/package.json",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/layouts/manage.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/views/show.jade",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/pics/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/views/index.jade",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/routes/categories.js",
+		"/C/Work/Mudita/website/Udemy/Project/nodeblog/routes/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/Album/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/controllers/manage.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/public/templates/books/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/Album/details.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/controllers/pic.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/books/index.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/pics/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/books/details.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/css/style.css",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/books/details.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/pics/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/pic/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/pic/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/views/login.jade",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/MyAlbum/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/layouts/master.properties",
+		"/C/Work/Mudita/website/Udemy/Project/nodeAuth/models/user.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/models/bookModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/MyAlbum/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/public/templates/manage/books/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/MyAlbum/add.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/MyAlbum/Album.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/MyAlbum.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/MyAlbum/Album.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/addpic",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/books/addpic.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/node_modules/express/lib/router/index.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/MyAlbum.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/books/MyAlbum.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/models/categoryModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/models/bookbookModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/lib/db.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/books/details.prperties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/categories/index.dust",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/controllers/pages.js",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/models/bookModel.js",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/edit.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/index.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/manage/add.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/layouts/manage.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/categories/add.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/public/templates/manage/categories/edit.dust",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/books/books/details.properties",
+		"/C/Work/Mudita/website/Udemy/Project/PhotoAlbum/locales/US/en/books/details.properties",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/config/config.json",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/public/css/style.css",
+		"/C/Work/Mudita/website/Udemy/Project/Textbook/public/templates/manage/books/index.dust"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"show",
+			"pic",
+			"pics",
+			"myalbum",
+			"multer",
+			"large-12",
+			"author",
+			"main",
+			"skin",
+			"middleware",
+			"requires",
+			"require",
+			"requires",
+			"multer",
+			"throw",
+			"thro",
+			"middleware"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 101.0,
+	"status_bar_visible": true
+}
