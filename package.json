@@ -1,0 +1,23 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "client": "cd react-client && npm run start",
+    "server": "nodemon server.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+
+   "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1"
+  },
+
+  "author": "Mudita",
+  "license": "ISC"
+}
